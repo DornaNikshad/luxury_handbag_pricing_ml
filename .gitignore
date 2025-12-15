@@ -18,3 +18,5 @@ outputs/
 # Environments
 .venv/
 .env
+.DS_Store
+
